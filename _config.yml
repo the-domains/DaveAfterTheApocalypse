@@ -1,0 +1,28 @@
+name: Dave (after the apocalypse)
+favicon: null
+layout_spectrum: 0.623668221058324
+typography_spectrum: 0.33630273560993373
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17278110422194004
+  lightness: 0.2162503800354898
+  saturation: 0.5398102703038603
+  rhythmicContrast: 0.011723078088834882
+purpose: []
